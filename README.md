@@ -1,16 +1,31 @@
-# api_calling
+# Fake API Demo App
 
-A new Flutter project.
+A Flutter app showcasing API requests using Provider state management, fetching data from a fake API for educational purposes.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+1. **API Interaction:** Utilizes a fake API to simulate real-world data fetching.
+2. **Provider State Management:** Demonstrates state management using the Provider package for efficient data flow.
+3. **Clean Code Architecture:** Follows a clean and organized code structure for easy understanding and future development.
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. **Clone the Repository:**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   git clone https://github.com/your-username/your-repository.git
+
+2. Navigate to the Project:
+
+   cd your-repository
+
+3. Install Dependencies:
+
+   flutter pub get
+   
+5. Run the App:
+
+   flutter run
+
+
+![74](https://github.com/JunaidJameel/API-Calling-for-begineers/assets/109211380/26ef2537-1338-4c01-9552-ddf1ad861d6b)
+
